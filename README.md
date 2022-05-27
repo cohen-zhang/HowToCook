@@ -1,4 +1,4 @@
-# 程序员做饭指南
+# 程序员做饭指南 - 张氏菜谱
 
 [![build](https://github.com/Anduin2017/HowToCook/actions/workflows/build.yml/badge.svg)](https://github.com/Anduin2017/HowToCook/actions/workflows/build.yml)
 [![License](https://img.shields.io/github/license/Anduin2017/HowToCook)](./LICENSE)
@@ -38,6 +38,7 @@
 
 ### 素菜
 
+- [西红柿炒鸡蛋✅](./dishes/vegetable_dish/西红柿炒鸡蛋.md)
 - [拔丝土豆](./dishes/vegetable_dish/拔丝土豆/拔丝土豆.md)
 - [包菜炒鸡蛋粉丝](./dishes/vegetable_dish/包菜炒鸡蛋粉丝/包菜炒鸡蛋粉丝.md)
 - [菠菜炒鸡蛋](./dishes/vegetable_dish/菠菜炒鸡蛋/菠菜炒鸡蛋.md)
@@ -75,7 +76,6 @@
 - [酸辣土豆丝](./dishes/vegetable_dish/酸辣土豆丝.md)
 - [糖拌西红柿](./dishes/vegetable_dish/糖拌西红柿/糖拌西红柿.md)
 - [莴笋叶煎饼](./dishes/vegetable_dish/莴笋叶煎饼/莴笋叶煎饼.md)
-- [西红柿炒鸡蛋](./dishes/vegetable_dish/西红柿炒鸡蛋.md)
 - [西红柿豆腐汤羹](./dishes/vegetable_dish/西红柿豆腐汤羹/西红柿豆腐汤羹.md)
 - [西葫芦炒鸡蛋](./dishes/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.md)
 - [洋葱炒鸡蛋](./dishes/vegetable_dish/洋葱炒鸡蛋/洋葱炒鸡蛋.md)
@@ -119,7 +119,7 @@
 - [糖醋排骨](./dishes/meat_dish/糖醋排骨/糖醋排骨.md)
 - [土豆炖排骨](./dishes/meat_dish/土豆炖排骨/土豆炖排骨.md)
 - [无骨鸡爪](./dishes/meat_dish/无骨鸡爪/无骨鸡爪.md)
-- [西红柿牛腩](./dishes/meat_dish/西红柿牛腩/西红柿牛腩.md)
+- [西红柿牛腩✅](./dishes/meat_dish/西红柿牛腩/西红柿牛腩.md)
 - [西红柿土豆炖牛肉](./dishes/meat_dish/西红柿土豆炖牛肉/西红柿土豆炖牛肉.md)
 - [香干芹菜炒肉](./dishes/meat_dish/香干芹菜炒肉/香干芹菜炒肉.md)
 - [香干肉丝](./dishes/meat_dish/香干肉丝.md)
@@ -206,7 +206,7 @@
 - [酸辣蕨根粉](./dishes/staple/酸辣蕨根粉.md)
 - [汤面](./dishes/staple/汤面.md)
 - [微波炉腊肠煲仔饭](./dishes/staple/微波炉腊肠煲仔饭/微波炉腊肠煲仔饭.md)
-- [炸酱面](./dishes/staple/炸酱面.md)
+- [炸酱面✅](./dishes/staple/炸酱面.md)
 - [蒸卤面](./dishes/staple/蒸卤面.md)
 - [中式馅饼](./dishes/staple/中式馅饼/中式馅饼.md)
 - [煮泡面加蛋](./dishes/staple/煮泡面加蛋.md)
