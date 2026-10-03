@@ -1,0 +1,4 @@
+/* Flowchart nodes use light classDef fills, so keep their labels dark in the slate scheme. */
+[data-md-color-scheme="slate"] {
+  --md-mermaid-label-fg-color: #1f2328;
+}

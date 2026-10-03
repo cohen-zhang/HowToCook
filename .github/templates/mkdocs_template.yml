@@ -55,6 +55,9 @@ theme:
       example: octicons/beaker-16
       quote: octicons/quote-16
 
+extra_css:
+  - tips/learn/diagrams/mermaid.css
+
 markdown_extensions:
   - admonition
   - pymdownx.details
